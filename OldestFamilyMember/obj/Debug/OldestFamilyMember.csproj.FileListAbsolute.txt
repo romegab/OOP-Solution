@@ -1,0 +1,7 @@
+D:\c#solutions\oop exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.csprojResolveAssemblyReference.cache
+D:\c#solutions\oop exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\c#solutions\oop exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe.config
+D:\c#solutions\oop exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe
+D:\c#solutions\oop exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.pdb
+D:\c#solutions\oop exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.exe
+D:\c#solutions\oop exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.pdb

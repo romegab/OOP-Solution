@@ -1,0 +1,7 @@
+D:\c#solutions\oop exercise\CarsRace\obj\Debug\CarsRace.csprojResolveAssemblyReference.cache
+D:\c#solutions\oop exercise\CarsRace\obj\Debug\CarsRace.csproj.CoreCompileInputs.cache
+D:\c#solutions\oop exercise\CarsRace\bin\Debug\CarsRace.exe.config
+D:\c#solutions\oop exercise\CarsRace\bin\Debug\CarsRace.exe
+D:\c#solutions\oop exercise\CarsRace\bin\Debug\CarsRace.pdb
+D:\c#solutions\oop exercise\CarsRace\obj\Debug\CarsRace.exe
+D:\c#solutions\oop exercise\CarsRace\obj\Debug\CarsRace.pdb

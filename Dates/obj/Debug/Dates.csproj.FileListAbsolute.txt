@@ -1,0 +1,7 @@
+D:\c#solutions\oop exercise\Dates\bin\Debug\Dates.exe.config
+D:\c#solutions\oop exercise\Dates\bin\Debug\Dates.exe
+D:\c#solutions\oop exercise\Dates\bin\Debug\Dates.pdb
+D:\c#solutions\oop exercise\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
+D:\c#solutions\oop exercise\Dates\obj\Debug\Dates.csproj.CoreCompileInputs.cache
+D:\c#solutions\oop exercise\Dates\obj\Debug\Dates.exe
+D:\c#solutions\oop exercise\Dates\obj\Debug\Dates.pdb

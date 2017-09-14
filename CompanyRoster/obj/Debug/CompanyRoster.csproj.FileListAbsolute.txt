@@ -1,0 +1,2 @@
+D:\c#solutions\oop exercise\CompanyRoster\obj\Debug\CompanyRoster.csprojResolveAssemblyReference.cache
+D:\c#solutions\oop exercise\CompanyRoster\obj\Debug\CompanyRoster.csproj.CoreCompileInputs.cache
